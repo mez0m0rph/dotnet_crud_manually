@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+
 namespace project
 {
     public class AppDbContext : DbContext
