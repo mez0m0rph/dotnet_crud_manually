@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wryOsszO7l8=",
+  "success": true,
+  "projectFilePath": "/Users/a0000/dotnet_crud_manually/dotnet_crud_manually.csproj",
+  "expectedPackageFiles": [
+    "/Users/a0000/.nuget/packages/microsoft.aspnetcore.openapi/10.0.1/microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "/Users/a0000/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
